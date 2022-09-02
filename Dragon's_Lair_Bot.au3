@@ -191,6 +191,10 @@ Func CheckColor( ByRef $iColor )
     Local $iGreen = BitShift( BitAND( $iColor, 0x00FF00 ),  8 )
     Local $iBlue  = BitAND( $iColor, 0x0000FF )
 
+    ; Since the buttons are semi-transparent so exact values
+    ; cannot be used.  Through trial and error, these values
+    ; were shown to be valid shades of yellow and resulted in
+    ; no false positives or false negatives.
     if $iRed >= 0xF0 And $iGreen >= 0xD0 And $iBlue <= 0x10 Then
         Return 1
     EndIf

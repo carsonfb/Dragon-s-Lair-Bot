@@ -5,15 +5,22 @@ This program is a simple bot written in AutoIt that plays the game Dragon's Lair
 
 Installation
 ------------
-1. Ensure that you have AutoIt installed.
+1. You will need a copy of Dragon's Lair in order to do anything meaningful with this bot.  I
+bought my copy from gog.com.
 
-2. Also, you will need a copy of Dragon's Lair.  I bought it through gog.com
+2. The game must be played at a resolution 1920x1080.  You can, of course, change the coordinates
+in the source code to allow for another resolution, but only 1920x1080 is supported
+"out-of-the-box".
+
+3. Ensure that you have AutoIt installed if you wish to make changes to the code.  Otherwise, you
+can run the 32-bit or 64-bit compiled binary located in the bin folder.
 
 Usage
 -----
 For instructions, please watch the YouTube video below.
 
-[![Nonogram Solver usage](https://img.youtube.com/vi/_fYG6CJxNKw/hqdefault.jpg)](https://youtu.be/_fYG6CJxNKw)
+[![Dragon's Lair Bot Part I](https://img.youtube.com/vi/_oqMIaMbFbCs/hqdefault.jpg)](https://youtu.be/oqMIaMbFbCs)
+[![Dragon's Lair Bot Part II](https://img.youtube.com/vi/_MyS4BygKH8U/hqdefault.jpg)](https://youtu.be/MyS4BygKH8U)
 
 Credits
 -------
