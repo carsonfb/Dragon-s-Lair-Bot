@@ -19,7 +19,10 @@ Usage
 -----
 For instructions, please watch the YouTube video below.
 
+Part I
 [![Dragon's Lair Bot Part I](http://i3.ytimg.com/vi/oqMIaMbFbCs/hqdefault.jpg)](https://youtu.be/oqMIaMbFbCs)
+
+Part II
 [![Dragon's Lair Bot Part II](http://i3.ytimg.com/vi/MyS4BygKH8U/hqdefault.jpg)](https://youtu.be/MyS4BygKH8U)
 
 Credits
