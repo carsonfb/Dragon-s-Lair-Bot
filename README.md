@@ -19,8 +19,8 @@ Usage
 -----
 For instructions, please watch the YouTube video below.
 
-[![Dragon's Lair Bot Part I](https://img.youtube.com/vi/_oqMIaMbFbCs/hqdefault.jpg)](https://youtu.be/oqMIaMbFbCs)
-[![Dragon's Lair Bot Part II](https://img.youtube.com/vi/_MyS4BygKH8U/hqdefault.jpg)](https://youtu.be/MyS4BygKH8U)
+[![Dragon's Lair Bot Part I](http://i3.ytimg.com/vi/oqMIaMbFbCs/hqdefault.jpg)](https://youtu.be/oqMIaMbFbCs)
+[![Dragon's Lair Bot Part II](http://i3.ytimg.com/vi/MyS4BygKH8U/hqdefault.jpg)](https://youtu.be/MyS4BygKH8U)
 
 Credits
 -------
