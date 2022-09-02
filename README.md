@@ -6,7 +6,7 @@ This program is a simple bot written in AutoIt that plays the game Dragon's Lair
 Installation
 ------------
 1. You will need a copy of Dragon's Lair in order to do anything meaningful with this bot.  I
-bought my copy from gog.com.
+bought my copy from [gog.com](https://www.gog.com/game/dragons_lair_trilogy).
 
 2. The game must be played at a resolution 1920x1080.  You can, of course, change the coordinates
 in the source code to allow for another resolution, but only 1920x1080 is supported
