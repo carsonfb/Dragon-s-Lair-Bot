@@ -17,7 +17,7 @@ can run the 32-bit or 64-bit compiled binary located in the bin folder.
 
 Usage
 -----
-For instructions, please watch the YouTube video below.
+For instructions, please watch the two YouTube videos below.
 
 Part I
 [![Dragon's Lair Bot Part I](http://i3.ytimg.com/vi/oqMIaMbFbCs/hqdefault.jpg)](https://youtu.be/oqMIaMbFbCs)
@@ -49,7 +49,7 @@ You can share this code (including your own modifications) as long as the follow
 met.  Please see the links below for more information.
 
 1. You state somewehere in the program credits (and documentation if applicable) that Carson F. Ball
-is the original author and list the location that the original can be downloaded (LINK HERE).
+is the original author and list the location that the original can be [downloaded](https://github.com/carsonfb/Dragon-s-Lair-Bot).
 
 2. You do not claim that Carson F. Ball endorses or approved of any modifications that you make and
 you clearly indicate that you have made modifications.

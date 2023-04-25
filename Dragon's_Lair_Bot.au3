@@ -191,7 +191,7 @@ Func CheckColor( ByRef $iColor )
     Local $iGreen = BitShift( BitAND( $iColor, 0x00FF00 ),  8 )
     Local $iBlue  = BitAND( $iColor, 0x0000FF )
 
-    ; Since the buttons are semi-transparent so exact values
+    ; Since the buttons are semi-transparent exact values
     ; cannot be used.  Through trial and error, these values
     ; were shown to be valid shades of yellow and resulted in
     ; no false positives or false negatives.
